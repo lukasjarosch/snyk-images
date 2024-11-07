@@ -1,6 +1,6 @@
 NAME=$$(echo $@ | cut -d "-" -f 2)
 
-PREFIX = "snyk/snyk"
+PREFIX = "derwaldemar/snyk"
 
 default: build
 
